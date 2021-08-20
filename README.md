@@ -13,6 +13,7 @@ Praticar conhecimentos obre HTML5, CSS3
 
 -Aprimorar os conhecimentos em HTML;
 -Aprimorar os conhecimentos em CSS;
+-aplicação de layout liquido;
 
 ```
 ## :wrench: Ferramentas Utilizadas
