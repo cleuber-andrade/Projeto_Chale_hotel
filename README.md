@@ -25,7 +25,7 @@ Praticar conhecimentos obre HTML5, CSS3
 
 ## :pager: Tela principal da Site Chalé Hotel
 
- <img src="img/darktheme.jpg" alt="Tela Principal">
+ <img src="https://github.com/cleuber-andrade/Projeto_Chale_hotel/blob/main/img/chalé.jpg" alt="Tela Principal">
 
 ## :globe_with_meridians: Link para acessar site no GitHubPages
 
