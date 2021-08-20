@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  ✔️Site Chalé Hotal✔️
+  ✔️Site Chalé Hotel✔️
 </h1>
 
 ## 💻 Sobre o projeto
